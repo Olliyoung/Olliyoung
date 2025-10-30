@@ -14,7 +14,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olliyoung&theme=blueberry&hide_border=true&layout=compact)
 
-![](https://visitcount.itsvg.in/api?id=Olliyoung&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=Olliyoung&color=blueviolet)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
