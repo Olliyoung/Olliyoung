@@ -1,7 +1,7 @@
 # **👨𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 <img src="assets/Sleeping-cat.gif" width="150" alt="Sleeping ASCII Cat">
 
-*👋 Hey, I’m Oliver*  
+*👋 Hey, I’m Oliver**  
 
 *💻 17 y/o IT Supporter Apprentice*  
 
@@ -52,7 +52,7 @@
 ---
 
 ## **📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬**
-![](https://github-readme-stats.vercel.app/api?username=Olliyoung&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true) <img src="assets/coffee.gif" width="150" alt="coffee cup">
+![](https://github-readme-stats.vercel.app/api?username=Olliyoung&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)         <img src="assets/coffee.gif" width="150" alt="coffee cup">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Olliyoung&theme=blueberry&hide_border=true)
 
