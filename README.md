@@ -17,12 +17,12 @@
 
 ---
 
-## **🧠 𝐖𝐡𝐚𝐭 𝐭𝐨 𝐄𝐱𝐩𝐞𝐜𝐭 𝐇𝐞𝐫𝐞*
+## **🧠 𝐖𝐡𝐚𝐭 𝐭𝐨 𝐄𝐱𝐩𝐞𝐜𝐭 𝐇𝐞𝐫𝐞**
 *This GitHub is where I’ll share my journey — from IT support projects to cybersecurity experiments and personal tools I build along the way.*
 
 ---
 
-## **🚀 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐲 𝐉𝐨𝐮𝐫𝐧𝐞𝐲*
+## **🚀 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐲 𝐉𝐨𝐮𝐫𝐧𝐞𝐲**
 *Stick around and see how I grow from an IT apprentice to a cybersecurity professional.*
 
 ---
