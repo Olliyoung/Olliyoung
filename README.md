@@ -1,39 +1,39 @@
-# 💫 About Me
+# **𝓐𝓑𝓞𝓤𝓣 𝓜𝓔**
 <img src="assets/Sleeping-cat.gif" width="150" alt="Sleeping ASCII Cat">
 
-👋 Hey, I’m Oliver
+*👋 Hey, I’m Oliver*  
 
-💻 17 y/o IT Supporter Apprentice
+*💻 17 y/o IT Supporter Apprentice*  
 
-🏢 Working at TotalEnergies Denmark, gaining hands-on experience in IT infrastructure and enterprise-level support.
+*🏢 Working at TotalEnergies Denmark, gaining hands-on experience in IT infrastructure and enterprise-level support.*  
 
-🎓 Currently studying IT at Syddansk Erhvervsskole in Vejle, building a strong foundation in both technical skills and real-world problem solving.
-
----
-
-## 🔐 Future Vision
-In 10 years, I see myself working in cybersecurity — ideally as a Red Team Operator, Ethical Hacker, or exploring other advanced areas of cyber defense.  
-My goal is to understand systems from every angle: how they’re built, maintained, and secured.
+*🎓 Currently studying IT at Syddansk Erhvervsskole in Vejle, building a strong foundation in both technical skills and real-world problem solving.*
 
 ---
 
-## 🧠 What to Expect Here
-This GitHub is where I’ll share my journey — from IT support projects to cybersecurity experiments and personal tools I build along the way.
+## **🔐 𝓕𝓤𝓣𝓤𝓡𝓔 𝓥𝓘𝓢𝓘𝓞𝓝**
+*In 10 years, I see myself working in cybersecurity — ideally as a Red Team Operator, Ethical Hacker, or exploring other advanced areas of cyber defense.*  
+*My goal is to understand systems from every angle: how they’re built, maintained, and secured.*
 
 ---
 
-## 🚀 Follow My Journey
-Stick around and see how I grow from an IT apprentice to a cybersecurity professional.
+## **🧠 𝓦𝓗𝓐𝓣 𝓣𝓞 𝓔𝓧𝓟𝓔𝓒𝓣 𝓗𝓔𝓡𝓔**
+*This GitHub is where I’ll share my journey — from IT support projects to cybersecurity experiments and personal tools I build along the way.*
 
 ---
 
-## 🌐 Socials
+## **🚀 𝓕𝓞𝓛𝓛𝓞𝓦 𝓜𝓨 𝓙𝓞𝓤𝓡𝓝𝓔𝓨**
+*Stick around and see how I grow from an IT apprentice to a cybersecurity professional.*
+
+---
+
+## **🌐 𝓢𝓞𝓒𝓘𝓐𝓛𝓢**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-larsen-b863b1275)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Oliveryl@outlook.dk)
 
 ---
 
-## 💻 Tech Stack
+## **💻 𝓣𝓔𝓒𝓗 𝓢𝓣𝓐𝓒𝓚**
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -51,7 +51,7 @@ Stick around and see how I grow from an IT apprentice to a cybersecurity profess
 
 ---
 
-## 📊 GitHub Stats
+## **📊 𝓖𝓘𝓣𝓗𝓤𝓑 𝓢𝓣𝓐𝓣𝓢**
 ![](https://github-readme-stats.vercel.app/api?username=Olliyoung&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Olliyoung&theme=blueberry&hide_border=true)
