@@ -1,5 +1,5 @@
-# **👨𝐀𝐛𝐨𝐮𝐭 𝐌𝐞*
-<img src="assets/Sleeping-cat.gif" width="150" alt="Sleeping ASCII Cat">
+# **👨𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
+<img src="assets/Sleeping-cat.gif" width="150" alt="Sleeping ASCII Cat"> <img src="assets/coffee.gif" width="150" alt="coffee cup">
 
 *👋 Hey, I’m Oliver*  
 
