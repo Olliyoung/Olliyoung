@@ -1,6 +1,7 @@
-# 💫 About Me:   
-👋 Hey, I’m Oliver<br><br>  <img src="assets/Sleeping-cat.gif" width="150" alt="Sleeping ASCII Cat">
-💻 17 y/o IT Supporter Apprentice<br><br>🏢 Working at TotalEnergies Denmark, gaining hands-on experience in IT infrastructure and enterprise-level support.<br><br>🎓 Currently studying IT at Syddansk Erhvervsskole in Vejle, building a strong foundation in both technical skills and real-world problem solving.<br><br>⸻<br><br>🔐 Future Vision<br><br>In 10 years, I see myself working in cybersecurity — ideally as a Red Team Operator, Ethical Hacker, or exploring other advanced areas of cyber defense.<br>My goal is to understand systems from every angle: how they’re built, maintained, and secured.<br><br>⸻<br><br>🧠 What to Expect Here<br><br>This GitHub is where I’ll share my journey — from IT support projects to cybersecurity experiments and personal tools I build along the way.<br><br>⸻<br><br>🚀 Follow My Journey<br><br>Stick around and see how I grow from an IT apprentice to a cybersecurity professional.  
+#
+<img src="assets/Sleeping-cat.gif" width="150" alt="Sleeping ASCII Cat">
+💫 About Me:   
+👋 Hey, I’m Oliver<br><br>💻 17 y/o IT Supporter Apprentice<br><br>🏢 Working at TotalEnergies Denmark, gaining hands-on experience in IT infrastructure and enterprise-level support.<br><br>🎓 Currently studying IT at Syddansk Erhvervsskole in Vejle, building a strong foundation in both technical skills and real-world problem solving.<br><br>⸻<br><br>🔐 Future Vision<br><br>In 10 years, I see myself working in cybersecurity — ideally as a Red Team Operator, Ethical Hacker, or exploring other advanced areas of cyber defense.<br>My goal is to understand systems from every angle: how they’re built, maintained, and secured.<br><br>⸻<br><br>🧠 What to Expect Here<br><br>This GitHub is where I’ll share my journey — from IT support projects to cybersecurity experiments and personal tools I build along the way.<br><br>⸻<br><br>🚀 Follow My Journey<br><br>Stick around and see how I grow from an IT apprentice to a cybersecurity professional.  
   
   
 ## 🌐 Socials:  
